@@ -1,4 +1,4 @@
-# The-Design-of-a-Simple-General-Purpose-Processor-usig-VHDL
+# The-Design-of-a-Simple-General-Purpose-Processor-using-VHDL
 
 Designed and constructed an Arithmetic and Logic Unit (ALU) in VHDL environment and implemented it on an FPGA board.  
 Designed  all functions of the ALU. 
